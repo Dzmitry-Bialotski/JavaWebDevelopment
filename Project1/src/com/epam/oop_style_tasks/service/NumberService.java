@@ -21,10 +21,11 @@ public class NumberService {
         return false;
     }
     public static boolean numberIsPerfect(int n) {
-        int summa =0;
-        for(int i=1;i<n;i++) {
-            if(n%i==0) summa+=i;
+        int summa = 0;
+        for(int i = 1; i < n; i++) {
+            if(n % i == 0)
+                summa += i;
         }
-        return summa==n ? true : false;
+        return summa == n ? true : false;
     }
 }

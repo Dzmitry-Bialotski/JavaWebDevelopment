@@ -44,5 +44,27 @@ public class Main {
         TimePrinter.printNumberOfSeconds(seconds);
         TimePrinter.printNumberOfMinutes(minutes);
         TimePrinter.printNumberOfHours(hours);
+
+        TaskPrinter.printTask(7);
+
+        Point point = new Point(1, 2);
+        Point point1 = new Point(9, 8);
+        Point nearestPoint = GeometryService.getNearestPoint(point1, point);
+        GeometryPrinter.printNearestPoint(nearestPoint);
+
+        TaskPrinter.printTask(8);
+        IFunctionable functionTask8 = SeedDataService.seedFunctionForTask8();
+        double x = 4.;
+        double y = functionTask8.calculate(x);
+        FunctionPrinter.printFunction(x, y);
+
+        TaskPrinter.printTask(9);
+        Circle circle9 = new Circle(10);
+        GeometryPrinter.printInfoTask9(circle9);
+
+        TaskPrinter.printTask(10);
+        FunctionTable functionTable = FunctionService.getFunctionTable(0, Math.PI/4, Math.PI/20,
+                (arg) -> Math.tan(arg));
+        FunctionPrinter.printFunctionTable(functionTable);
     }
 }

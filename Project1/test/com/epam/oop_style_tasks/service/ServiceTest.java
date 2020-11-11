@@ -1,8 +1,6 @@
 package com.epam.oop_style_tasks.service;
 
-import com.epam.oop_style_tasks.entity.Circle;
-import com.epam.oop_style_tasks.entity.Month;
-import com.epam.oop_style_tasks.entity.Square;
+import com.epam.oop_style_tasks.entity.*;
 import com.epam.oop_style_tasks.printer.GeometryPrinter;
 import com.epam.oop_style_tasks.printer.NumberPrinter;
 import com.epam.oop_style_tasks.printer.TaskPrinter;
@@ -59,6 +57,36 @@ public class ServiceTest {
         assertEquals(seconds, 3670);
         assertEquals(minutes, 61);
         assertEquals(hours, 1);
+    }
+    @Test
+    public void testTask7() {
+        Point point = new Point(1, 2);
+        Point point1 = new Point(9, 8);
+        Point nearestPoint = GeometryService.getNearestPoint(point1, point);
+        assertEquals(point, nearestPoint);
+    }
+    @Test
+    public void testTask8() {
+        IFunctionable functionTask8 = SeedDataService.seedFunctionForTask8();
+        double x = 4.;
+        double y = functionTask8.calculate(x);
+        assertEquals(y, 5.);
+
+    }
+    @Test
+    public void testTask9() {
+
+        Circle circle9 = new Circle(10);
+        assertEquals(circle9.getArea(), 10 * 10 * Math.PI);
+        assertEquals(circle9.getCircumference(), 20 * Math.PI);
+    }
+    @Test
+    public void testTask10() {
+        FunctionTable functionTable = FunctionService.getFunctionTable(0, Math.PI/4, Math.PI/20,
+                (arg) -> Math.tan(arg));
+
+        assertEquals(functionTable.getArguments().get(0), 0.0);
+        assertEquals(functionTable.getValues().get(0), 0.0);
     }
 
 }
