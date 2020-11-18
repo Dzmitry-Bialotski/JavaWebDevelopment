@@ -1,8 +1,8 @@
 package com.epam.ball_task.entity;
 
 import java.awt.*;
-
-public class Ball {
+import java.io.*;
+public class Ball implements Serializable{
     private double weight;
     private Color color;
 

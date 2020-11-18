@@ -1,8 +1,8 @@
 package com.epam.ball_task.entity;
 
 import java.util.ArrayList;
-
-public class Basket {
+import java.io.*;
+public class Basket implements Serializable{
     private ArrayList<Ball> balls;
 
     public Basket(){}
