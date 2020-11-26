@@ -1,0 +1,16 @@
+2020:-11-26 14:23:47 [main] INFO  epam.arrays.task1.service.FibonacciService - Fibonacci number limit: 10123
+2020:-11-26 14:23:47 [main] INFO  epam.arrays.task1.service.FibonacciService - Fibonacci array: 
+[0, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765]
+2020:-11-26 14:23:47 [main] INFO  epam.arrays.task1.service.FibonacciService - Number of coincidences 6
+2020:-11-26 14:23:47 [main] INFO  epam.arrays.task2.service.JaggedArraySortService - [10, 9, 9]
+2020:-11-26 14:23:47 [main] INFO  epam.arrays.task2.service.JaggedArraySortService - [4, -8, 9, 3, 6]
+2020:-11-26 14:23:47 [main] INFO  epam.arrays.task2.service.JaggedArraySortService - [9, 0]
+2020:-11-26 14:23:47 [main] INFO  epam.arrays.task2.service.JaggedArraySortService - [-5, 10, 3]
+2020:-11-26 14:27:43 [main] INFO  epam.arrays.task1.service.FibonacciService - Fibonacci number limit: 10123
+2020:-11-26 14:27:43 [main] INFO  epam.arrays.task1.service.FibonacciService - Fibonacci array: 
+[0, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765]
+2020:-11-26 14:27:43 [main] INFO  epam.arrays.task1.service.FibonacciService - Number of coincidences 6
+2020:-11-26 14:27:43 [main] INFO  epam.arrays.task2.service.JaggedArraySortService - [10, 9, 9]
+2020:-11-26 14:27:43 [main] INFO  epam.arrays.task2.service.JaggedArraySortService - [4, -8, 9, 3, 6]
+2020:-11-26 14:27:43 [main] INFO  epam.arrays.task2.service.JaggedArraySortService - [9, 0]
+2020:-11-26 14:27:43 [main] INFO  epam.arrays.task2.service.JaggedArraySortService - [-5, 10, 3]
