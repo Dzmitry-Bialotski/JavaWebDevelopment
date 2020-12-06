@@ -1,0 +1,7 @@
+Дмитрий;Таргариан;Дмитриевич;2000;0;12;address;phoneNumber;FKSIS;3;1;
+Иван;Иванов;Себастьянович;2000;0;12;address;phoneNumber;FKSIS;3;2;
+Алексей;Смольник;Елисеевич;2000;0;12;address;phoneNumber;FKSIS;2;2;
+Кирилл;Кварцев;Дмитриевич;2000;0;12;address;phoneNumber;FKSIS;2;2;
+Станислав;Стасик;Екатеринович;2000;0;12;address;phoneNumber;FKSIS;2;1;
+Константин;Абрамов;Катеринович;2000;0;12;address;phoneNumber;FKSIS;3;2;
+Винни;Пух;Пятачокович;2000;0;12;address;phoneNumber;FKSIS;1;3;

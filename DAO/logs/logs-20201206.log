@@ -1,5 +1,32 @@
-2020-12-06 15:58:47.707 [main] DEBUG by.belotskiy.App - We've just greeted the user!
-2020-12-06 15:58:47.711 [main] INFO  by.belotskiy.App - We've just greeted the user!
-2020-12-06 15:58:47.712 [main] WARN  by.belotskiy.App - We've just greeted the user!
-2020-12-06 15:58:47.712 [main] ERROR by.belotskiy.App - We've just greeted the user!
-2020-12-06 15:58:47.712 [main] FATAL by.belotskiy.App - We've just greeted the user!
+2020-12-06 15:58:47.707 [main] DEBUG App - We've just greeted the user!
+2020-12-06 15:58:47.711 [main] INFO  App - We've just greeted the user!
+2020-12-06 15:58:47.712 [main] WARN  App - We've just greeted the user!
+2020-12-06 15:58:47.712 [main] ERROR App - We've just greeted the user!
+2020-12-06 15:58:47.712 [main] FATAL App - We've just greeted the user!
+2020-12-06 22:30:37.141 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 22:30:37.146 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - return all students
+2020-12-06 22:33:57.078 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 22:33:57.084 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - return all students
+2020-12-06 22:33:57.093 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 22:33:57.094 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - search by Id ended
+2020-12-06 23:01:57.415 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 23:01:57.421 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - return all students
+2020-12-06 23:01:57.445 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 23:01:57.445 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - search by Id ended
+2020-12-06 23:03:55.306 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 23:03:55.311 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - return all students
+2020-12-06 23:03:55.347 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 23:03:55.348 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - search by Id ended
+2020-12-06 23:04:53.242 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 23:04:53.247 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - return all students
+2020-12-06 23:04:53.263 [main] INFO  by.belotskiy.bsuir.model.reader.StudentReader - Generated list of students
+2020-12-06 23:04:53.263 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 23:04:53.263 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 23:04:53.264 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 23:04:53.265 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 23:04:53.265 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 23:04:53.265 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 23:04:53.266 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 23:04:53.266 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - return students by group
+2020-12-06 23:04:53.267 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - add student 
+2020-12-06 23:04:53.268 [main] INFO  by.belotskiy.bsuir.model.dao.impl.StudentDaoImpl - search by Id ended
