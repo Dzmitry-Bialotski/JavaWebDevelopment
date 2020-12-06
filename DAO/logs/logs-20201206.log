@@ -1,0 +1,5 @@
+2020-12-06 15:58:47.707 [main] DEBUG by.belotskiy.App - We've just greeted the user!
+2020-12-06 15:58:47.711 [main] INFO  by.belotskiy.App - We've just greeted the user!
+2020-12-06 15:58:47.712 [main] WARN  by.belotskiy.App - We've just greeted the user!
+2020-12-06 15:58:47.712 [main] ERROR by.belotskiy.App - We've just greeted the user!
+2020-12-06 15:58:47.712 [main] FATAL by.belotskiy.App - We've just greeted the user!
