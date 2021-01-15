@@ -1,0 +1,2 @@
+15-01-2021 19:48:51 readerTest ERROR reader.TextReaderTest, message: test
+15-01-2021 19:48:51 readerTest ERROR reader.TextReaderTest, message: test
