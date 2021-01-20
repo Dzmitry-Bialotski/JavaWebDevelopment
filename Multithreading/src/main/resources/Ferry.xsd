@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="https://Ferry.epam.com/"
+        elementFormDefault="qualified">
+    <element name="ferries">
+        <complexType>
+            <sequence>
+                <element name="ferry" maxOccurs="1" minOccurs="1">
+                    <complexType>
+                        <sequence>
+                            <element name="ferryArea" type="positiveInteger" default="1000"/>
+                            <element name="ferryMaxLength" type="positiveInteger" default="1000"/>
+                        </sequence>
+                    </complexType>
+                </element>
+            </sequence>
+        </complexType>
+    </element>
+
+</schema>

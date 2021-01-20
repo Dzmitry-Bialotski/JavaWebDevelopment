@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ferries xmlns="https://Ferry.epam.com/">
+    <ferry>
+        <ferryArea>15000</ferryArea>
+        <ferryMaxLength>4000</ferryMaxLength>
+    </ferry>
+</ferries>

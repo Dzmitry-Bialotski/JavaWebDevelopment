@@ -1,0 +1,3 @@
+20-01-2021 13:47:46 buildCar INFO  impl.CarParser, message: Car car is on the right bank
+20-01-2021 13:47:46 buildCar INFO  impl.CarParser, message: Car car is on the right bank
+20-01-2021 13:47:46 buildCar INFO  impl.CarParser, message: Car car is on the right bank

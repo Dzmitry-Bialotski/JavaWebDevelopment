@@ -1,0 +1,23 @@
+20-01-2021 13:55:03 validate ERROR impl.XmlFileValidator, message: src/test/resources/FerryBoat.xml is not valid because F:\JavaWebDevelopment\Multithreading\src\test\resources\FerryBoat.xml (Не удается найти указанный файл)
+20-01-2021 13:55:03 parse ERROR impl.CarParser, message: Incorrect xml fileby.belotskiy.multithreading.exception.XmlValidatorException: java.io.FileNotFoundException: F:\JavaWebDevelopment\Multithreading\src\test\resources\FerryBoat.xml (Не удается найти указанный файл)
+20-01-2021 13:55:21 validate ERROR impl.XmlFileValidator, message: src/test/resources/FerryBoat.xml is not valid because F:\JavaWebDevelopment\Multithreading\src\test\resources\FerryBoat.xml (Не удается найти указанный файл)
+20-01-2021 13:55:21 parse ERROR impl.CarParser, message: Incorrect xml fileby.belotskiy.multithreading.exception.XmlValidatorException: java.io.FileNotFoundException: F:\JavaWebDevelopment\Multithreading\src\test\resources\FerryBoat.xml (Не удается найти указанный файл)
+20-01-2021 13:55:21 buildCar INFO  impl.CarParser, message: Car car is on the right bank
+20-01-2021 13:55:21 buildCar INFO  impl.CarParser, message: Car car is on the right bank
+20-01-2021 13:55:21 buildCar INFO  impl.CarParser, message: Car car is on the right bank
+20-01-2021 13:55:21 buildCar INFO  impl.CarParser, message: Car car is on the right bank
+20-01-2021 13:55:21 buildCar INFO  impl.CarParser, message: Car car is on the right bank
+20-01-2021 13:55:21 buildCar INFO  impl.CarParser, message: Car car is on the right bank
+20-01-2021 13:55:21 run INFO  entity.Car, message: Car 7 is on the boat
+20-01-2021 13:55:21 run INFO  entity.Car, message: Car 8 is on the boat
+20-01-2021 13:55:21 loadCars INFO  controller.CarTransferController, message: FerryBoat arrives from the right bank...
+20-01-2021 13:55:22 unloadCars INFO  controller.CarTransferController, message: Ferry on the left bank
+20-01-2021 13:55:22 run INFO  entity.Car, message: Car 7 is on the left bank
+20-01-2021 13:55:22 run INFO  entity.Car, message: Car 8 is on the left bank
+20-01-2021 13:55:25 transfer INFO  controller.CarTransferController, message: FerryBoat is on the right bank
+20-01-2021 13:55:25 run INFO  entity.Car, message: Car 9 is on the boat
+20-01-2021 13:55:25 loadCars INFO  controller.CarTransferController, message: FerryBoat arrives from the right bank...
+20-01-2021 13:55:25 unloadCars INFO  controller.CarTransferController, message: Ferry on the left bank
+20-01-2021 13:55:25 run INFO  entity.Car, message: Car 9 is on the left bank
+20-01-2021 13:55:28 transfer INFO  controller.CarTransferController, message: FerryBoat is on the right bank
+20-01-2021 13:55:28 transfer INFO  controller.CarTransferController, message: All cars are transported

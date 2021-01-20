@@ -1,0 +1,16 @@
+20-01-2021 13:38:01 buildCar INFO  impl.CarParser, message: Car car is on the right bank
+20-01-2021 13:38:01 buildCar INFO  impl.CarParser, message: Car car is on the right bank
+20-01-2021 13:38:01 buildCar INFO  impl.CarParser, message: Car car is on the right bank
+20-01-2021 13:38:01 run INFO  entity.Car, message: Car 1 is on the boat
+20-01-2021 13:38:02 run INFO  entity.Car, message: Car 2 is on the boat
+20-01-2021 13:38:02 loadCars INFO  controller.CarTransferController, message: FerryBoat arrives from the right bank...
+20-01-2021 13:38:02 unloadCars INFO  controller.CarTransferController, message: Ferry on the left bank
+20-01-2021 13:38:02 run INFO  entity.Car, message: Car 1 is on the left bank
+20-01-2021 13:38:02 run INFO  entity.Car, message: Car 2 is on the left bank
+20-01-2021 13:38:05 transfer INFO  controller.CarTransferController, message: FerryBoat is on the right bank
+20-01-2021 13:38:05 run INFO  entity.Car, message: Car 3 is on the boat
+20-01-2021 13:38:05 loadCars INFO  controller.CarTransferController, message: FerryBoat arrives from the right bank...
+20-01-2021 13:38:05 unloadCars INFO  controller.CarTransferController, message: Ferry on the left bank
+20-01-2021 13:38:05 run INFO  entity.Car, message: Car 3 is on the left bank
+20-01-2021 13:38:08 transfer INFO  controller.CarTransferController, message: FerryBoat is on the right bank
+20-01-2021 13:38:08 transfer INFO  controller.CarTransferController, message: All cars are transported
